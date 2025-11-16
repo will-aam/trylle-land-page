@@ -1,0 +1,11 @@
+# Ignore node modules
+/node_modules
+*.env.local
+*.iml
+# Ignore build output
+*.tmp
+.next
+# Ignore logs
+Anotações.md 
+cod-supabase.md
+
